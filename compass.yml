@@ -1,0 +1,13 @@
+name: query
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/9fd46d05-8b98-425d-9968-a7f3dcf6121f
+description: 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
